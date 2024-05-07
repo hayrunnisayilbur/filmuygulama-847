@@ -1,0 +1,32 @@
+C:\Users\student\Desktop\Film Uygulama\Film Uygulama\bin\Debug\Film Uygulama.exe.config
+C:\Users\student\Desktop\Film Uygulama\Film Uygulama\bin\Debug\Film Uygulama.exe
+C:\Users\student\Desktop\Film Uygulama\Film Uygulama\bin\Debug\Film Uygulama.pdb
+C:\Users\student\Desktop\Film Uygulama\Film Uygulama\bin\Debug\MySql.Data.dll
+C:\Users\student\Desktop\Film Uygulama\Film Uygulama\bin\Debug\System.Memory.dll
+C:\Users\student\Desktop\Film Uygulama\Film Uygulama\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\student\Desktop\Film Uygulama\Film Uygulama\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\student\Desktop\Film Uygulama\Film Uygulama\bin\Debug\System.Buffers.dll
+C:\Users\student\Desktop\Film Uygulama\Film Uygulama\obj\Debug\Film Uygulama.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Film Uygulama\Film Uygulama\obj\Debug\Film_Uygulama.Form1.resources
+C:\Users\student\Desktop\Film Uygulama\Film Uygulama\obj\Debug\Film_Uygulama.Properties.Resources.resources
+C:\Users\student\Desktop\Film Uygulama\Film Uygulama\obj\Debug\Film Uygulama.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Film Uygulama\Film Uygulama\obj\Debug\Film Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Film Uygulama\Film Uygulama\obj\Debug\Film Uygulama.csproj.CopyComplete
+C:\Users\student\Desktop\Film Uygulama\Film Uygulama\obj\Debug\Film Uygulama.exe
+C:\Users\student\Desktop\Film Uygulama\Film Uygulama\obj\Debug\Film Uygulama.pdb
+C:\Users\User\Desktop\Film Uygulama\Film Uygulama\bin\Debug\Film Uygulama.exe.config
+C:\Users\User\Desktop\Film Uygulama\Film Uygulama\bin\Debug\Film Uygulama.exe
+C:\Users\User\Desktop\Film Uygulama\Film Uygulama\bin\Debug\Film Uygulama.pdb
+C:\Users\User\Desktop\Film Uygulama\Film Uygulama\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\Film Uygulama\Film Uygulama\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\Film Uygulama\Film Uygulama\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\Film Uygulama\Film Uygulama\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\Film Uygulama\Film Uygulama\obj\Debug\Film Uygulama.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Film Uygulama\Film Uygulama\obj\Debug\Film Uygulama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Film Uygulama\Film Uygulama\obj\Debug\Film_Uygulama.Form1.resources
+C:\Users\User\Desktop\Film Uygulama\Film Uygulama\obj\Debug\Film_Uygulama.Properties.Resources.resources
+C:\Users\User\Desktop\Film Uygulama\Film Uygulama\obj\Debug\Film Uygulama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Film Uygulama\Film Uygulama\obj\Debug\Film Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Film Uygulama\Film Uygulama\obj\Debug\Film Uygulama.csproj.CopyComplete
+C:\Users\User\Desktop\Film Uygulama\Film Uygulama\obj\Debug\Film Uygulama.exe
+C:\Users\User\Desktop\Film Uygulama\Film Uygulama\obj\Debug\Film Uygulama.pdb
